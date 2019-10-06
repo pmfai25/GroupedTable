@@ -1,0 +1,13 @@
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\bin\Debug\netstandard2.0\GroupedTable.deps.json
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\bin\Debug\netstandard2.0\GroupedTable.dll
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\obj\Debug\netstandard2.0\GroupedTable.csprojAssemblyReference.cache
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\obj\Debug\netstandard2.0\GroupedTable.csproj.CoreCompileInputs.cache
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\obj\Debug\netstandard2.0\GroupedTable.AssemblyInfoInputs.cache
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\obj\Debug\netstandard2.0\GroupedTable.AssemblyInfo.cs
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\obj\Debug\netstandard2.0\Views\DetailPage.xaml.g.cs
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\bin\Debug\netstandard2.0\GroupedTable.pdb
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\obj\Debug\netstandard2.0\GroupedTable.dll
+C:\Xamarin_Forms\MyWorkSpace\GroupedTable\GroupedTable\GroupedTable\obj\Debug\netstandard2.0\GroupedTable.pdb
