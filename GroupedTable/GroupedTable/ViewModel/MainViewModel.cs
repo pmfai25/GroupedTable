@@ -8,7 +8,7 @@ namespace GroupedTable.ViewModel
     {
         public MainViewModel()
         {
-            var toyotaCars = new GroupPersonList
+            var toyotaCars = new GroupList 
             {
                 new Car {Model = "Vitz", EngineCapacity = "100cc"},
                 new Car {Model = "Aqua", EngineCapacity = "1500cc"},
@@ -16,21 +16,23 @@ namespace GroupedTable.ViewModel
                 new Car {Model = "Alion", EngineCapacity = "2000cc"},
                 new Car {Model = "Wigo", EngineCapacity = "1000cc"}
             };
-            toyotaCars.Header = "Tall People";
+            toyotaCars.Header = "Toyota";
+            toyotaCars.GroupId = "1";
 
-            var nissanCars = new GroupPersonList
+            var nissanCars = new GroupList
             {
                 new Car {Model = "Sunny", EngineCapacity = "1500cc"},
                 new Car {Model = "March", EngineCapacity = "1000cc"},
                 new Car {Model = "Leaf", EngineCapacity = "1500cc"}
             };
-            nissanCars.Header = "Short People";
+            nissanCars.Header = "Nissan";
+            nissanCars.GroupId = "2";
 
             PersonCollection.Add(toyotaCars);
             PersonCollection.Add(nissanCars);
         }
         
-        public ObservableCollection<GroupPersonList> PersonCollection { get; } =
-            new ObservableCollection<GroupPersonList>();
+        public ObservableCollection<GroupList> PersonCollection { get; } =
+            new ObservableCollection<GroupList>();
     }
 }
